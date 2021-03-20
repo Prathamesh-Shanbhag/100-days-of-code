@@ -13,7 +13,7 @@ IFFE,Hoisting,Closure, Usage of Var Let Const,Function/Block Scope,Template Stri
 
 Started Learning Docker, Attended A Webinar on Machine Learning.
 Helped a friend to start learning about Git & GitHub(made their very first repo!), and also Website Hosting via FireBase.
-Under JavaScript I learnt about:
+Under JavaScript I learnt about :
 
 - 'This' Keyword in ES6 & Normal Functions
 - Default Parameters in Functions
