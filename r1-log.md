@@ -24,3 +24,12 @@ Under JavaScript I learnt about
 - For of Loop
 
 ### R1D3
+
+Decided to Complete with ES6 major concepts today and I am almost done with JavaScript.
+Topics I Covered:
+
+- Spread Operator
+- Rest Operator
+- ES6 Array Methods
+- Modularizing of Code as done in React
+- Callback,Promises & Async/Await.
