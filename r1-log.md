@@ -22,3 +22,5 @@ Under JavaScript I learnt about
 - Destructuring Objects by itself & using Functions.
 - New String Methods introduced in ES6 Javascript
 - For of Loop
+
+### R1D3
