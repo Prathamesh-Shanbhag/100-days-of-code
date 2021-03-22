@@ -35,3 +35,18 @@ Topics I Covered:
 - Callback,Promises & Async/Await.
 
 ### R1D4
+
+Potential Final Day of Javascript(Will be moving on to REACT soon! Yayy!)
+All from very basics
+
+- Callbacks,Promises and Async/Await
+- AJAX,HTTP,API Requests
+- Created a Random Joke Generator project using these concepts.
+  Watched Eddie on Youtube Reviewing OpenSource Projects Live
+- All my knowledge on Opensource has been through Eddie and the EddieHub Community.
+- Learnt a lot about how to make a good open source project some points include
+- Include Version Releases
+- Include GitHub Actions
+- Have a well documented readme file
+- Create labels for issues and create issues too!
+- Include Important Project links in respective places.
