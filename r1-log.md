@@ -51,5 +51,11 @@ All from very basics
 - Create labels for issues and create issues too!
 - Include Important Project links in respective places.
 
-
 ### R1D5
+
+Took it a litle easy today, was really sleep deprived, although still managed to complete two projects.
+JavaScript Cocktails API Project & Random User Generator Project
+
+- The API's used were CocktailsDB API and RandomUser API
+- Made use of all AJAX Concepts like fetch, async/await.
+- Also modularized the code!
