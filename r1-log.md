@@ -59,3 +59,16 @@ JavaScript Cocktails API Project & Random User Generator Project
 - The API's used were CocktailsDB API and RandomUser API
 - Made use of all AJAX Concepts like fetch, async/await.
 - Also modularized the code!
+
+COCKTAILS API PROJECT
+
+This is one project I would recommend to others , who want to fortify their JavaScript Basics,because this project will touch on those topics from the start very well.
+I really had fun making this project, Do check it out and let me know your thoughts on it!
+LINK IN BIO!
+
+### R1D6
+
+- GETTING STARTED WITH REACT!
+- Finally Started with React and got introduced to create-react-app the ready-to-go template for react web-apps.
+
+- Dealt with a minor bug in the cocktails api project which was preventing the fetch request , which stopped the Single Drink Page from Loading.
