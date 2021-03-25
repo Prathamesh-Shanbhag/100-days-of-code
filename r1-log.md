@@ -69,6 +69,9 @@ LINK IN BIO!
 ### R1D6
 
 - GETTING STARTED WITH REACT!
-- Finally Started with React and got introduced to create-react-app the ready-to-go template for react web-apps.
 
-- Dealt with a minor bug in the cocktails api project which was preventing the fetch request , which stopped the Single Drink Page from Loading.
+- Posting really late but I Finally Started with React and got introduced to create-react-app the ready-to-go template for react web-apps.
+- Although I couldn't get started with much of React Concepts, I just snooped around the file structure and learnt what it contained along with the important terminal commands that will be required to build my project.
+- Prepared a presentation on my final year project(which took up most of my day and React Concepts will have to wait for a bit.) & this project requires me to get started with Machine Learning using Python and also learn about OpenCV, Dlib,and TensorFlow to create the model and React for the Front-End of this Project.
+- Any suggestions or resources of good quality for the project mentioned above will be greatly appreciated in the comments!
+- Also Dealt with a minor bug in the cocktails api project which was preventing the fetch request , which stopped the Single Drink Page from Loading.
