@@ -78,4 +78,12 @@ LINK IN BIO!
 
 ### R1D7(25th March)
 
+Starting with Basic React Concepts!
+
+- Learning about Components.
+- Nested Components.
+- Also learnt about JSX.
+- Prepping for a 36 Hour Hackathon coming up soon!
+- Couldn't do much today since I was super buzy, and will try and catch up soon.
+
 ### R1D8
