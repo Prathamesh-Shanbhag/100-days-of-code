@@ -75,3 +75,7 @@ LINK IN BIO!
 - Prepared a presentation on my final year project(which took up most of my day and React Concepts will have to wait for a bit.) & this project requires me to get started with Machine Learning using Python and also learn about OpenCV, Dlib,and TensorFlow to create the model and React for the Front-End of this Project.
 - Any suggestions or resources of good quality for the project mentioned above will be greatly appreciated in the comments!
 - Also Dealt with a minor bug in the cocktails api project which was preventing the fetch request , which stopped the Single Drink Page from Loading.
+
+### R1D7(25th March)
+
+### R1D8
