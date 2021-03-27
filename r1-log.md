@@ -87,3 +87,10 @@ Starting with Basic React Concepts!
 - Couldn't do much today since I was super buzy, and will try and catch up soon.
 
 ### R1D8
+
+Working with Components.
+
+- Was really buzy since I am taking part in a Hackathon was on call all day and couldn't do the learning part much.
+- Although the project has some advanced react concepts, I will have to learn them on the fly, I have a team-mate to help me out.
+- Trying to find ways to improve my posts by using canva or so.
+- Also attended a live stream by @ and had a really amazing conversation on GitHub and Open-Source.
