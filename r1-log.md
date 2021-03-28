@@ -93,4 +93,16 @@ Working with Components.
 - Was really buzy since I am taking part in a Hackathon was on call all day and couldn't do the learning part much.
 - Although the project has some advanced react concepts, I will have to learn them on the fly, I have a team-mate to help me out.
 - Trying to find ways to improve my posts by using canva or so.
-- Also attended a live stream by @ and had a really amazing conversation on GitHub and Open-Source.
+- Also attended a live stream by @eddiejaoude and had a really amazing conversation on GitHub and Open-Source.
+
+### R1D9
+
+- Another day spent all day on call and a few meetings for something coming up soon, although I did start with something cool which is creating an account on HackerRank and started with a few Practice tests on there!
+- Planning to soon start with Python so it is easy for me to solve the problems on there and probably on LeetCode as well, since the text editor on HackerRank doesn't work with JavaScript very well.(Accepts Node.js JavaScript only)
+- Attended the Monthly Community Call w/ @eddiejaoude and as usual it was amazing and inspiring!
+  The talks included:
+  Talks included :
+  Github Kanban Project Board/Actions.
+  Web Development/Assembly & TensorFlow for Machine Learning.
+  Best Cloud Platforms to host Projects.(Digtal Ocean,AWS, etc)
+  How the community is inclusive to all & overcoming the language barrier together!
