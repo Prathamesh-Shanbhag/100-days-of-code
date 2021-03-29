@@ -106,3 +106,5 @@ Working with Components.
   Web Development/Assembly & TensorFlow for Machine Learning.
   Best Cloud Platforms to host Projects.(Digtal Ocean,AWS, etc)
   How the community is inclusive to all & overcoming the language barrier together!
+
+### R1D10
