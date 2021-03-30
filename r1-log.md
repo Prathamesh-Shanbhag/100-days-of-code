@@ -107,7 +107,7 @@ Working with Components.
   Best Cloud Platforms to host Projects.(Digtal Ocean,AWS, etc)
   How the community is inclusive to all & overcoming the language barrier together!
 
-### R1D10
+### R1D10(28th March)
 
 - Wasn't feeling very productive today, I kept delaying working and was starting to feel the burn-out.
 - Got to complete only a few of the React Concepts today, and founf myself sleeping or scrolling through youtube for the rest.
@@ -116,4 +116,9 @@ Working with Components.
   Burnout- Something that I'm starting to feel, but felt better when I heard someone address it and the way to tackle it was to take the much needed break which I'm going to cash in on soon during this challenge of 100 Days.
   How to get into Freelancing and how to always try and over-deliver to clients to improve your network, and potentially get more clients!
 
-### R1D11
+### R1D11(29th March)
+
+- HackerRank
+- Stu Amb HackTheMountains
+- React Further Progress
+  (Add Early! Before 12 1 post and after 12 1 post)
