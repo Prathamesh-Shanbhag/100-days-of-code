@@ -118,7 +118,8 @@ Working with Components.
 
 ### R1D11(29th March)
 
-- HackerRank
-- Stu Amb HackTheMountains
-- React Further Progress
-  (Add Early! Before 12 1 post and after 12 1 post)
+Getting Through the RoadBlocks!
+
+- Now stuck on a HackerRank problem that I don't think I can solve without learning any other language because using just Javascript doesn't seem to be working
+- In React started learning about Inline CSS using JSX & props which work like parameters in a function, but I am yet to explore more of props.
+- I will soon start learning Figma to improve the quality of my posts and provide value to people who would want to consume any content that I put out, and also I love UI/UX related content so I am ever-ready to learn stuff like that.
