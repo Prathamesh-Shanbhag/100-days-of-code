@@ -133,6 +133,7 @@ FIGMA IS AMAZING!
 - I made this post using those tools and I can't wait to explore further and maybe share more about how I made those posts!
 
 ### R1D13
+
 - Practiced a little more stuff using Figma, learnt a lot about certain shortcut keys, and how figma is free for individuals but paid if you work in a team.
 - Got a really good workout in!
 - Attended a Twitter Spaces session by @eddiejaoude on Time Management for Developers
@@ -140,8 +141,8 @@ FIGMA IS AMAZING!
 - Leave your Feedbacks in the Comment section and let me know what you think!
 
 ### R1D14
-Rest Day
 
+Rest Day
 
 Stu Amb HackTheMountains
 
