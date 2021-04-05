@@ -158,7 +158,7 @@ Today was a Rest Day
 - Twitter Spaces hosted by @Khusbooverma with absolutely amazing speakers like Eddie , @Dthom @srk
 
 Stu Amb HackTheMountains
-Progate(On hold)
+Progate(On hold
 
 - React Further Progress
   Add Early! Before 12 1 post and after 12 1 post)
