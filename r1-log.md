@@ -204,8 +204,38 @@ Workshops/Livestreams:
 
 ### R1D19
 
-Stu Amb HackTheMountains
-Progate(On hold
+✨Can't believe I'm going to hit 20 days!
 
-- React Further Progress
-  Add Early! Before 12 1 post and after 12 1 )
+⚛️Under React useEffect hook:
+🚩Conditionals.
+🚩Dependancy List.
+🚩Cleanup Function.
+🚩Fetch.
+
+💬Live Talks:
+🍀 DevConnect 2.0 turned out to be something I didn't expect but, glad I was a part of it.
+
+💬Some amazing topics discussed:
+🚩Personal Branding.
+🚩Handling Criticism.
+🚩 Starting out in fields like Web Dev & Machine Learning.
+🚩General talks on tech!
+@HackOnHackathon
+
+🤝Join the @HackOnHackathon discord server to become a part of the next DevConnect!
+
+🚩Also follow them if you haven't already:
+@siddharth_hacks
+@khushiSharma_22
+@adityaoberai1
+@ekuekansh
+These people are amazing and know their stuff!🔥
+
+### R1D20
+
+✨More React!
+🚩 Just practiced with React Hooks.
+🚩 Started with a React Project using hooks.
+
+💯 Started learning on Google Cloud Platform!
+🚩 Finished the very first lab!
