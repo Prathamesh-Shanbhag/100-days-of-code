@@ -202,7 +202,7 @@ Workshops/Livestreams:
 🍀 Multi-Community call by @eddiejaoude on the EddieHub Discord talking about Hackathon Experiences & Challenges.
 🍀@dthompsondev Twitter Spaces on Navigating your tech career, probably one of the best talks I've been a part of, so much to learn, so much value, every single minute I was learning something new and also had my personal doubts solved by Danny himself, I highly recommend checking him out if you haven't already!
 
-### R1D19
+### R1D19(6th April)
 
 ✨Can't believe I'm going to hit 20 days!
 
@@ -263,7 +263,35 @@ Things I learnt :
 🚩 Talks about Web Dev and YouTube, and Content Creation in general, glad I could pitch in and ask questions here as well.
 🚩 Lots of value in this talk and overall my biggest takeaway was that everyone grows at their own pace, and you would do great without comparing yourself to someone else's progress.
 
-### R1D22
+### R1D22(9th April)
+
+✨React Projects!
+
+🚩Started with a few mini React projects so I could get used to learning hooks.
+🚩First Project I Made is this mini Tour cards section which can be cleared by selecting the not interested option.
+I ran into a small bug when I couldn't understand prop naming when passing it over to other components, and made a few mistakes while passing them over.
+
+🌊Talks/Streams:
+🍀BootCamp on Stand Out by Building A Personal Brand by @colbyfayock
+#hashnodebootcamp
+
+### R1D23(10th April)
+
+### R1D24
+
+### R1D25
+
+### R1D26
+
+### R1D27
+
+### R1D28
+
+### R1D29
+
+### R1D30
+
+### R1D31
 
 Stu Amb HackTheMountains
 Hashnode To build a brand by fayock
