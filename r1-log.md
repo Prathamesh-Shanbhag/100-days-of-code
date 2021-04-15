@@ -291,7 +291,6 @@ In React ⚛️:
 ### R1D24
 
 ✨Looks like I have a fixed routine now.
-
 In React ⚛️:
 🚩 Created a Reviews Slider Project!
 🚩 The Slider is completely based on the useState hook and the inline onClick function in JSX.
