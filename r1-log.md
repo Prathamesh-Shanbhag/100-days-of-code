@@ -309,6 +309,34 @@ It was an amazing talk, ended up learning about:
 
 ### R1D25
 
+✨Another amazing day.
+(Today was a super long day, but nevertheless super amazing and lots of value, so bear with me folks!)
+
+In React ⚛️ :
+🚩 Worked on a Tabs Project that displays different resumes of people.
+🚩 The project was fairly simple with a few challenges.
+🚩 What took the most effort was the logic for switching of active class on the tabs that were clicked using useState hook.
+
+🌊Talks/Livestreams:
+🍀 Planning & Building a Restful API using NestJS for the community data livestream by @eddiejaoude.
+🚩Even though I had 0 idea about NestJS I joined in and it was super fun because I got to learn a lot about it,since I would also google stuff when we got stuck on a issue & that led to learning about it. (Also got a few green squares on GitHub)
+
+🍀The Campus DevRel Show by @githubeducation hosted by- @yashovardhanagrawal, @putrevu.aravind & @siddharth_hacks.
+🚩 The talk was super insightful because it included talks about how to enhance Developer Engagement on social media.
+🚩 The future of developer community clusters now that everything has shifted online.
+🚩 Opportunities for students in the Developer Community Space.
+
+🍀 @hashnode BootCamp on Several Revenue Models for Software Engineers by @hacksultan
+🚩 Ways to get started with gigs/Freelancing
+🚩 Problems faced by creators/devs when stepping into the revenue making space.
+🚩 Different ways to monetize your content.
+
+If you've read this far, and are interested to see these amazing talks for yourself do the following and checkout:
+
+👉@eddiejaoude's YouTube Channel
+👉@githubeducation on Twitch
+👉Join @hashnode BootCamp by joining the Discord Server.
+
 ### R1D26
 
 ### R1D27
