@@ -339,6 +339,40 @@ If you've read this far, and are interested to see these amazing talks for yours
 
 ### R1D26
 
+✨ 𝐀 𝐁𝐫𝐞𝐚𝐤 𝐟𝐫𝐨𝐦 𝐂𝐨𝐝𝐢𝐧𝐠!
+
+🚩 I decided to take a Break and give myself some time to consolidate what I had learnt so far, although to avoid losing touch to my daily routine I tuned in to talks by some of my favourite people.
+
+🌊Talks/Livestreams :
+
+🍀𝐀𝐧𝐨𝐭𝐡𝐞𝐫 𝐑𝐞𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐒𝐞𝐫𝐢𝐞𝐬 by @github @githubeducation hosted by @juanpflores\_\_ & Github Campus Expert Alumni @a_harshil
+Certain Takeaways -
+🚩 How to write a talk proposal for a conference
+🚩 Dealing with the infamous Imposter Syndrome
+🚩 Content Creation in terms of Blogs, Videos, Livestreams and discussing the pros and cons of the same.
+🚩 The Importance of Documentation
+🚩 Developing the skill of Public Speaking!
+🚩 How to Improve on topics like Content Creation, CFP writing, Public Speaking and many such topics.
+
+🍀 #𝐈𝐆𝐋𝐢𝐯𝐞𝗪𝐢𝐭𝐡𝐒𝐢𝐝 𝐄𝐩 𝟏: '𝐇𝐢𝐝𝐝𝐞𝐧 𝐑𝐞𝐚𝐥𝐢𝐭𝐢𝐞𝐬 & 𝐏𝐫𝐞𝐬𝐬𝐮𝐫𝐞𝐬 𝐎𝐟 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐢𝐞𝐬'
+by @siddharth_hacks & @adityaoberai1
+A Talk that I personally related with & hit hard for me.
+🚩 Another mention of the omnipresent Imposter Syndrome and how to deal with it.
+🚩 How to deal with certain expectations & external pressure from your peers, and also other members of the community.
+🚩 Time Management to achieve a perfect balance between work and personal time.
+🚩 The Importance of Denying someone or saying NO, when the situation calls for it.(Personally Bad at this one)
+🚩 How to handle situations where you're taken for granted.
+🚩 Politics in some of the communities stunting personal growth of people part of that community.
+🚩 And Much More.
+
+🍀@bitddsc 𝐱 𝐄𝐝𝐝𝐢𝐞𝐇𝐮𝐛 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐂𝐚𝐥𝐥 by @eddiejaoude & @carrycooldude
+Got some of my own queries solved by the speakers.
+That has really got me thinking since then, takeaways:
+🚩 The Process of Building a Community is A Marathon & not a Race!
+🚩 When building a Community promote the community by inculcating leadership traits in them, and allowing them to grow as well.
+🚩 Join various communities and gain experience from all of them.
+🚩There is no right skillset required to contribute in a community and any contribution is welcome!
+
 ### R1D27
 
 ### R1D28
