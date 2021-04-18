@@ -373,7 +373,55 @@ That has really got me thinking since then, takeaways:
 🚩 Join various communities and gain experience from all of them.
 🚩There is no right skillset required to contribute in a community and any contribution is welcome!
 
-### R1D27
+### R1D27(14th April)
+
+✨Back on Track?
+
+🚩 I wasn't really feeling well, & slept throughout the day to feel better, & thought of continuing with React from tomorrow, but since I started to feel a little better around evening, I decided it was time to listen to some amazing talks.
+
+🌊Talks /Livestreams :
+
+🍀' How To Find a Good Hackathon?' |
+by @siddharth_hacks on YouTube Livestream.
+🚩 Started with what exactly is a Hackathon?
+🚩 Perks of Participating in a Hackathon?
+🚩 Team-Building in a Hackathon
+🚩 Meeting new People during a Hackathon
+🚩 Tips/Tricks to Find a Good Hackathon using certain resources.
+🚩 ALL of the resources mentioned to find a Hackathon are as follows:
+
+---
+
+🔹MLH
+🔹Devpost
+🔹Devfolio
+🔹HackerEarth
+🔹GitCoin
+🔹AngelHack
+🔹Skillenza
+🔹HackClub
+🔹IncubateIND
+
+🚩All of the above mentioned resources on googling, The very 1st link that shows up takes you to their respective website that will help you find amazing Hackathons.
+
+🍀#TechTable Twitter Spaces hosted by @rkulidzan, @eddiejaoude & @\_elletownsend on 'Open Source & Open Learning'
+
+Things to Remember :
+🚩 While maintaining an OS Project make sure that the projects passes all checks & is up to community standards by clicking on the insights tab in a repo.
+🚩 Maintainers should make extensive use of Issues & Pull Request feature in their OS Project.
+🚩While Contributing to an OS Project make sure to go through the Contributing.md File to match the maintainers requests.
+🚩 Contribute to a project along with a buddy or friend to make it easier.
+🚩 Keep the Pull Requests to the Project Consistent.
+🚩 Contribution to the project is not restricted to Technical matter, & can be made in form of Documentation/Writing.
+(The 3rd slide is custom made by me to fit the theme of TechTable!)
+
+🍀 @hashnode BootCamp on Building an Effective Developer Portfolio by @anniebombanie
+
+🚩 Customization /Design of a Developer Portfolio.
+🚩 Do's and Dont's to keep in mind while creating a Portfolio.
+🚩 Inclusion of Social links.
+🚩 Footer & Contact Form in a Portfolio.
+🚩 Working on look of the Portfolio that would immediately catch the eye of a Recruiter.
 
 ### R1D28
 
