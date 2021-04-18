@@ -425,9 +425,35 @@ Things to Remember :
 
 ### R1D28
 
+✨ Making Improvements!
+
+💻Learnings/Work:
+🚩 Researched on how to make a good Github Profile Readme.
+🚩 Updated my Github Profile Readme!
+🚩 It isn't the best version but I plan to keep updating it frequently.
+🚩My profile link is in bio, do check it out and--->
+
+💬 IF ANYONE HAS ANY FEEDBACK OR INPUT I WOULD LOVE TO HEAR FROM YOU!
+
+In React ⚛️ :
+🚩 Started learning about forms in React.
+🚩 Controlled Form Inputs.
+🚩 Multiple Form Inputs.
+🚩 Started working on a Lorem-Ipsum Generator using forms.
+
+🌊 Talks/Livestreams:
+
+🍀 Maksim Ivanov's TwitterSpaces with @eddiejaoude & @dthompsondev
+🚩 Talks on Communities in General.
+🚩 How to form a community.
+🚩 How to maintain & moderate a Community.
+🚩Rules to be followed in a Community.
+🚩Ways to keep communities safe.
+🚩Ways to involve the community members themselves, so that the community is a safe place and can thrive!
+
 ### R1D29
 
-### R1D30
+### R1D30(17th April)
 
 ### R1D31
 
