@@ -453,6 +453,34 @@ In React ⚛️ :
 
 ### R1D29
 
+✨ OPEN SOURCE!❤️
+
+In React ⚛️ :
+🚩 Made a really beautiful color generator, that creates 10 tints and shades of the Hex code of the color specified in the input bar.
+🚩 Probably made use of everything I learnt so far-Hooks, Forms, Try Catch Block, and A new Javascript library.
+🚩 Used the values.js library to create the colors.
+
+🌊 Talks /Livestreams :
+🍀 Getting Started with Containers using Azure by @carrycooldude hosted by
+Azure Developer Community.
+🚩Basics of Azure and Containers.
+🚩 Docker flow diagram consisting of Docker Hub and Docker on the Net.
+
+🍀 101 on how to get your organization started with Open Source, live on LinkedIn by @eddiejaoude & @github
+🚩 ALL THINGS OPEN SOURCE!
+🚩 How to get Started?
+🚩 Some misconceptions with open source.
+🚩 Community involvement in Open Source.
+🚩 Best Practices while Maintaining & Contributing to an Open Source Project!
+(Also caught @nhcarrigan giving EddieHub a shoutout on the live!)
+
+🍀@hashnode BootCamp by @samsongoddy on Growing with Open Source.
+🚩 Some of the major points overlapped with Eddie's talk and further proved the good that comes with Open Source when two of the best agree on certain points.
+🚩 How to make contributions without getting overwhelmed or intimidated by a repo.
+🚩 Always check the Contributing.md file before contributing.
+🚩 Mentioning of Open Source contributions on other platforms such as LinkedIn
+🚩 GSOC & GSOD
+
 ### R1D30(17th April)
 
 ### R1D31
