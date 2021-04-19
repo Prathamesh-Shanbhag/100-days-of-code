@@ -482,6 +482,34 @@ Azure Developer Community.
 🚩 GSOC & GSOD
 
 ### R1D30(17th April)
+✨ 1 MONTH COMPLETED ! ✅
+
+in React ⚛️ :
+🚩 Started building a Grocery List App.
+🚩 The App is made using just 2 basic hooks useState and useEffect.
+🚩 And also the frequently used array methods as well.
+🚩 I still have to add the feature where the items added are stored in localstorage so that even after the page refreshes the items in the list will persist.
+
+🌊 Talks/Livestreams :
+🍀 #HackitWithSid - True Essense Of A Hacker Mindset & Experience hosted by @siddharth_hacks & @shivi_enigma
+The True Hacker Mindset involves:
+🚩 Empathy to problems
+🚩 Trying out different things
+🚩 Enthusiastic & Creative, Be eager to learn something new everytime.
+🚩 Have innovative solutions.
+🚩 Be open to suggestions & opportunities.
+🚩 Trial & Error Method of Learning.
+🗣️Questions Answered :
+🔹What inspired you to become a Hacker?
+🔹Challenges faced in Hackathons?
+🔹How to face failure?
+🔹How to surround yourself with people with same mindset?
+
+🍀 #FlutteristasConf2021 hosted by the Flutteristas group. @flutterista
+🚩 Got to learn a lot about flutters new features.
+🚩 Made some apps.
+🚩 Took part in the mini challenges that occurred throughout the event! 🎉
+
 
 ### R1D31
 
