@@ -482,6 +482,7 @@ Azure Developer Community.
 🚩 GSOC & GSOD
 
 ### R1D30(17th April)
+
 ✨ 1 MONTH COMPLETED ! ✅
 
 in React ⚛️ :
@@ -510,10 +511,21 @@ The True Hacker Mindset involves:
 🚩 Made some apps.
 🚩 Took part in the mini challenges that occurred throughout the event! 🎉
 
-
 ### R1D31
 
-Stu Amb HackTheMountains
-Hashnode To build a brand by fayock
+✨ Little Research + Work!
 
-Progate(On hold)
+💻Learnings/Work:
+🚩 Started looking into a Few Hackathons That I could be a part of as a Participant or Mentor.
+
+⚛️ In React:
+🚩 Implemented the localstorage feature so that the browser retains the list even after refreshing!
+
+🌊Talks /Livestreams :
+🍀 Power of Hackathons by @siddharth_hacks hosted by @hackbmu
+It was a really amazing session and we had talks on topics such as:
+🚩 Future of Hackathons
+🚩 Impact of Hackathons
+🚩 How Hackathons help you develop new ideas and boost creativity
+🚩 How to manage time during Hackathons.
+🚩 And everything else you could possibly imagine related to Hackathons!
