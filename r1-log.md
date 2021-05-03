@@ -771,6 +771,30 @@ Topics of the Talk :
 
 ### R1D40
 
+✨ Slowly getting into a Fixed Routine!
+
+In Python 🐍 :
+🚩 Dove deep into Numpy Python Libraries & Arrays (They accept only one data type, if others are present they get converted to same data type - Called as TypeCoercion.)
+🚩 Worked with certain numpy methods like mean, median, sum, sort, max, std, corrcoef.
+
+🌊 Talks/Livestreams :
+🍀 #IGLiveWithSid :E3 - 'Understanding the Student Program Mindset' hosted by @siddharth_hacks & @khattakdev
+
+Some points:
+🚩 Always have the right mindset while applying.
+🚩 A very important skill is leadership.
+🚩 Always be ready to help someone in general , and help them grow.
+🚩 You should be really passionate about technology, because you will be representing the organization.
+🚩 For Freshers, start by joining local communities like GDGs and Facebook Developer Circles.
+
+Some Benefits :
+🚩 You gain exposure and a chance to network and meet new people.
+🚩 As always swags might come your way if you have the right mindset!
+🚩 You also gain access to help on any topic, because of the large volume of Experienced people in the student program.
+🚩 You can connect with employees that can give you insights on your resume!
+
+🚩 🌟A sure shot way to get accepted is to start getting involved with the community and contributing to it!
+
 ### R1D41
 
 ### R1D42
