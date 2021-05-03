@@ -732,6 +732,20 @@ Thank you Shruti for sharing your journey!
 
 ### R1D38
 
+✨ Getting to know Python much better!
+
+In Python 🐍 :
+🚩 Learnt about Lists and Manipulating lists
+🚩 Learnt about Functions and Methods (Very similar to Javascript! )
+🚩Learnt about packages and their uses in short like
+🔹numpy - Numerical Python Package
+🔹matplotlib - Data Visualization Package
+🔹scikit-learn - Machine Learning Package
+🚩 And worked on some exercises to get familiar with it!
+
+🌊No Talks/Livestreams Today! 😱
+For the first time in a long time, I did not attend any events! Also gave a break to all the people I constantly keep tagging, with the only hope that they don't mind. :P
+
 ### R1D39
 
 ### R1D40
