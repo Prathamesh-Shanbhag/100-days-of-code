@@ -792,7 +792,6 @@ Some Benefits :
 🚩 As always swags might come your way if you have the right mindset!
 🚩 You also gain access to help on any topic, because of the large volume of Experienced people in the student program.
 🚩 You can connect with employees that can give you insights on your resume!
-
 🚩 🌟A sure shot way to get accepted is to start getting involved with the community and contributing to it!
 
 ### R1D41
