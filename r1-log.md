@@ -729,6 +729,7 @@ Thank you Shruti for sharing your journey!
 🚩 Also Learnt a lot about the MLSA program, like what is it, the vision, & how it has affected the lives of the students who are a part of it!
 🚩 Someone who is really very passionate about tech has the opportunity to become a part of this program!
 🚩 I really look forward to applying soon, but until then I will try to improve some skills that are deemed necessary for the program!
+🙌Special Thanks to the ASL Interpreters & hosts, that worked super hard throughout the session! ❤
 
 ### R1D38
 
@@ -747,6 +748,26 @@ In Python 🐍 :
 For the first time in a long time, I did not attend any events! Also gave a break to all the people I constantly keep tagging, with the only hope that they don't mind. :P
 
 ### R1D39
+
+✨More Python and an Amazing Talk!
+
+In Python 🐍 :
+🚩 Worked specifically on the numpy library and how to use it with arrays.
+🚩 Importing library with shorter references using 'AS' keyword.
+🚩 Partial Importing of only specific methods from Libraries.
+
+🌊 Talks/Livestreams :
+🍀 The Campus DevRel Show EP04: The Power of Open-Source in your Dev-Rel Journey by @githubeducation hosted by @yashovardhanagrawal & amazing guests @eddiejaoude & @siddharth_hacks
+
+Topics of the Talk :
+🚩 Stepping into DevRel Space with and without Freelancing experience.
+🚩 Open-Source and how to make your first contribution!
+🚩 The Hackathon journey and culture!
+🚩 The Correct ways to ask help from someone.
+🚩 Improving Communication Skills which are super important in the job market.
+🚩 Also spoke about #EddieHub and how to get involved with the community.
+
+🌟🚩 The last & most important point of "GETTING STARTED" no matter where you are in your journey, write blogs, make videos, learn something new & share, but just Get Started!
 
 ### R1D40
 
