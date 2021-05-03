@@ -529,3 +529,59 @@ It was a really amazing session and we had talks on topics such as:
 🚩 How Hackathons help you develop new ideas and boost creativity
 🚩 How to manage time during Hackathons.
 🚩 And everything else you could possibly imagine related to Hackathons!
+
+### R1D32
+
+✨ Back To Back Talks!
+
+⚛️In React :
+🚩 Completed the Grocery List App with edit functionality option added so items in list can be edited.
+🚩 I plan to start doing more but college work is lagging behind so I am managing on two fronts, hence I feel my progress is slowing down now.
+
+🌊 Talks /Livestreams :
+
+🍀 The Campus DevRel Show by @githubeducation @github hosted by @yashovardhanagrawal & amazing guests @nikita.gandhi01 & @carrycooldude
+The talk involved :
+🚩 Beginners or Freshers entering into the DevRel space.
+🚩 The Importance of Experience before getting into DevRel.
+🚩 Behind The Scenes of the DevRel Post.
+🚩 Ways to keep people motivated for no-perk roles.
+🚩 Road map to get Experience needed to get into DevRel
+🚩 Public Speaking and Contributing to Communities.
+
+🍀 Reviewing Open Source Projects and getting some Green-Squares! 🟩 - with @eddiejaoude
+Being a part of these Streams has become my daily routine and I wouldn't have it any other way because it's way too amazing! (Caught Eddie in a Perfect Pose for the click)
+🚩 Reviewed some Open Source Projects and GitHub Profiles with Eddie.
+🚩 Got to learn a lot about the issue labels structure and made a PR to the repo adding the live stream label.
+🚩 Contributed to the community by leaving comments and adding issues to repos reviewed by Eddie.
+
+It made me reallyyy happy to see that the stream crossed all boundaries and had a 100 + likes and around 80 concurrent viewers! ❤❤
+I hope that this happens every other time Eddie Streams!
+
+### R1D32
+
+### R1D33
+
+### R1D34
+
+### R1D35
+
+### R1D36
+
+### R1D37
+
+### R1D38
+
+### R1D39
+
+### R1D40
+
+### R1D41
+
+### R1D42
+
+### R1D43
+
+### R1D44
+
+### R1D45
