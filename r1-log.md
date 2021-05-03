@@ -558,9 +558,36 @@ Being a part of these Streams has become my daily routine and I wouldn't have it
 It made me reallyyy happy to see that the stream crossed all boundaries and had a 100 + likes and around 80 concurrent viewers! ❤❤
 I hope that this happens every other time Eddie Streams!
 
-### R1D32
-
 ### R1D33
+
+✨ REACT NO MORE? 😱
+
+❗Hey everyone! This is for anyone who is working on a particular language or framework, and then starts facing problems like saturation and feeling like your progress slows down!
+
+👉What worked for me:
+I take a break first and then maybe switch to something else that is on my list of things to learn!
+Which is why I have switched to learning Python! 🐍 ❤️
+And then maybe switch back to your initial language when your brain has had some rest and cool down from seeing the same topic or language.
+
+The Resources that I am considering to start Python on and I would recommend others who are starting out as well are:
+🔹 @datacamp
+🔹 @freecodecamp
+🔹 @udemy
+🔹 @coursera & finally
+🔹 @youtube
+
+🌊Talks/Livestreams :
+🍀 #IGLiveWithSid - Leveraging Communities The Right Way!
+with @siddharth_hacks & @aanchalmishra\_\_
+Certain Takeaways :
+🚩 Reflect on what is the Purpose /Inspiration to Join or even start a community!
+🚩 Give Back to the Community without expecting anything in return!
+🚩 Don't feel afraid to ask anything to someone who is more experienced than you.
+🚩 Talks on tackling the omnipresent 'Imposter Syndrome'
+🚩 Never Compare your progress to someone else's.
+🚩 Always stay grounded and be open to learning from others
+
+It was a pleasure hearing Aanchal speak about this topic because the experience really showed the way she spoke & I admit I definitely learnt something crucial during this talk!
 
 ### R1D34
 
